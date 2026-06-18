@@ -1,0 +1,8 @@
+gradio>=4.0.0
+cohere>=5.0.0
+modal
+soundfile
+numpy
+torch
+transformers
+python-dotenv
